@@ -5,5 +5,8 @@
     },
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
+    ],
+    "cSpell.words": [
+        "hyperparameters"
     ]
 }
